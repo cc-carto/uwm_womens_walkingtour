@@ -85,11 +85,11 @@ button:hover{
     width:100vw !important;
     height:100vh !important;
     z-index:5000;
+    border:none !important;
 }
 #splash-body{
     height:100%;
     padding-bottom:20px;
-    overflow:auto;
     -webkit-overflow-scrolling: touch;
 }
 #splash-title{
@@ -127,7 +127,6 @@ button:hover{
 }
 #stop-body{
     height:100%;
-    overflow:scroll;
 }
 #stop-img{
     width:100%;
