@@ -177,3 +177,11 @@ audio {
   {
     border: none !important;
   }
+
+  .modal-title
+  {
+    font-family: "Gabriela", serif!important;
+    font-weight: 400;
+    font-style: normal;
+    color:black
+  }
