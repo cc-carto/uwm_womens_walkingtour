@@ -98,7 +98,7 @@
     }
     //add tour route to the map
     function addRoute(){
-        fetch("assets/route4.geojson")
+        fetch("assets/map.geojson")
             .then(res => res.json())
             .then(data => {
                 
