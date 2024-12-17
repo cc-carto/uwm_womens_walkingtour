@@ -48,7 +48,7 @@ button:hover{
     stroke:rgba(0, 0, 0, 0.752);
 }
 .inactive-stop{
-    fill:rgb(237, 148, 175);
+    fill:rgb(230, 180, 195);
     stroke:rgba(0, 0, 0, 0.752);
 
 }
@@ -57,7 +57,7 @@ button:hover{
     stroke:rgb(244, 76, 127);
 }
 .inactive-route{
-    stroke:rgb(203, 162, 162);
+    stroke:rgb(225, 176, 176);
 }
 
 /*NAVIGATION BAR*/
